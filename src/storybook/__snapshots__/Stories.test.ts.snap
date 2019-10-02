@@ -81975,6 +81975,1203 @@ exports[`Storyshots Views / Product types / Unassign multiple attributes default
 />
 `;
 
+exports[`Storyshots Views / Products / Create multiple variants / summary default 1`] = `
+<div
+  style="padding:24px"
+>
+  <div
+    class="MuiPaper-root-id MuiPaper-elevation1-id MuiPaper-rounded-id MuiCard-root-id"
+    style="margin:auto;overflow:visible;width:800px"
+  >
+    <div
+      class="MuiCardContent-root-id"
+    >
+      <div>
+        <div
+          class="ProductVariantCreateTabs-root-id"
+        >
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Choose Attributes
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Select Values
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Prices and SKU
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabActive-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Summary
+            </span>
+          </div>
+        </div>
+        <div
+          class="Hook-root-id"
+        >
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            You will create variants below
+          </h5>
+          <hr
+            class="Hr-root-id ProductVariantCreateSummary-hr-id"
+          />
+          <div>
+            <div
+              class="ProductVariantCreateSummary-row-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colHeader-id ProductVariantCreateSummary-colName-id"
+              >
+                Variant
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colHeader-id ProductVariantCreateSummary-colPrice-id"
+              >
+                Price
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colHeader-id ProductVariantCreateSummary-colStock-id"
+              >
+                Inventory
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colHeader-id ProductVariantCreateSummary-colSku-id"
+              >
+                SKU
+              </div>
+            </div>
+            <div
+              class="ProductVariantCreateSummary-row-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colName-id"
+              >
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#1565c0"
+                >
+                  100g
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#00838f"
+                >
+                  Arabica
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#2e7d32"
+                >
+                  Round
+                </span>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colPrice-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                      min="0"
+                      type="number"
+                      value="4.00"
+                    />
+                    USD
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colStock-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      min="0"
+                      type="number"
+                      value="30"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colSku-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0.01px"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ProductVariantCreateSummary-row-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colName-id"
+              >
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#1565c0"
+                >
+                  100g
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#00838f"
+                >
+                  Arabica
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#2e7d32"
+                >
+                  Polo
+                </span>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colPrice-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                      min="0"
+                      type="number"
+                      value="4.00"
+                    />
+                    USD
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colStock-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      min="0"
+                      type="number"
+                      value="30"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colSku-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0.01px"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ProductVariantCreateSummary-row-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colName-id"
+              >
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#1565c0"
+                >
+                  500g
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#00838f"
+                >
+                  Arabica
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#2e7d32"
+                >
+                  Round
+                </span>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colPrice-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                      min="0"
+                      type="number"
+                      value="4.00"
+                    />
+                    USD
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colStock-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      min="0"
+                      type="number"
+                      value="30"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colSku-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0.01px"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ProductVariantCreateSummary-row-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colName-id"
+              >
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#1565c0"
+                >
+                  500g
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#00838f"
+                >
+                  Arabica
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#2e7d32"
+                >
+                  Polo
+                </span>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colPrice-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                      min="0"
+                      type="number"
+                      value="4.00"
+                    />
+                    USD
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colStock-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      min="0"
+                      type="number"
+                      value="30"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colSku-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0.01px"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Views / Products / Create multiple variants / summary errors 1`] = `
+<div
+  style="padding:24px"
+>
+  <div
+    class="MuiPaper-root-id MuiPaper-elevation1-id MuiPaper-rounded-id MuiCard-root-id"
+    style="margin:auto;overflow:visible;width:800px"
+  >
+    <div
+      class="MuiCardContent-root-id"
+    >
+      <div>
+        <div
+          class="ProductVariantCreateTabs-root-id"
+        >
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Choose Attributes
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Select Values
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Prices and SKU
+            </span>
+          </div>
+          <div
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabActive-id ProductVariantCreateTabs-tabUnderline-id"
+          >
+            <span
+              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
+            >
+              Summary
+            </span>
+          </div>
+        </div>
+        <div
+          class="Hook-root-id"
+        >
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            You will create variants below
+          </h5>
+          <hr
+            class="Hr-root-id ProductVariantCreateSummary-hr-id"
+          />
+          <div>
+            <div
+              class="ProductVariantCreateSummary-row-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colHeader-id ProductVariantCreateSummary-colName-id"
+              >
+                Variant
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colHeader-id ProductVariantCreateSummary-colPrice-id"
+              >
+                Price
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colHeader-id ProductVariantCreateSummary-colStock-id"
+              >
+                Inventory
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colHeader-id ProductVariantCreateSummary-colSku-id"
+              >
+                SKU
+              </div>
+            </div>
+            <div
+              class="ProductVariantCreateSummary-row-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colName-id"
+              >
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#1565c0"
+                >
+                  100g
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#00838f"
+                >
+                  Arabica
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#2e7d32"
+                >
+                  Round
+                </span>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colPrice-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                      min="0"
+                      type="number"
+                      value="4.00"
+                    />
+                    USD
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colStock-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      min="0"
+                      type="number"
+                      value="30"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colSku-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0.01px"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ProductVariantCreateSummary-row-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colName-id"
+              >
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#1565c0"
+                >
+                  100g
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#00838f"
+                >
+                  Arabica
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#2e7d32"
+                >
+                  Polo
+                </span>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colPrice-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                      min="0"
+                      type="number"
+                      value="4.00"
+                    />
+                    USD
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colStock-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      min="0"
+                      type="number"
+                      value="30"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colSku-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0.01px"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ProductVariantCreateSummary-row-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colName-id"
+              >
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#1565c0"
+                >
+                  500g
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#00838f"
+                >
+                  Arabica
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#2e7d32"
+                >
+                  Round
+                </span>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colPrice-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                      min="0"
+                      type="number"
+                      value="4.00"
+                    />
+                    USD
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colStock-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      min="0"
+                      type="number"
+                      value="30"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colSku-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0.01px"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ProductVariantCreateSummary-row-id ProductVariantCreateSummary-errorRow-id"
+            >
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colName-id"
+              >
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#1565c0"
+                >
+                  500g
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#00838f"
+                >
+                  Arabica
+                </span>
+                <span
+                  class="ProductVariantCreateSummary-attributeValue-id"
+                  style="color:#2e7d32"
+                >
+                  Polo
+                </span>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colPrice-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
+                      min="0"
+                      type="number"
+                      value="4.00"
+                    />
+                    USD
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colStock-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      min="0"
+                      type="number"
+                      value="30"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="ProductVariantCreateSummary-col-id ProductVariantCreateSummary-colSku-id"
+              >
+                <div
+                  class="MuiFormControl-root-id MuiFormControl-fullWidth-id ProductVariantCreateSummary-input-id"
+                >
+                  <div
+                    class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-error-id MuiOutlinedInput-error-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
+                  >
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
+                      style="padding-left:8px"
+                    >
+                      <legend
+                        class="MuiPrivateNotchedOutline-legend-id"
+                        style="width:0.01px"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                    <input
+                      aria-invalid="true"
+                      class="MuiInputBase-input-id MuiOutlinedInput-input-id"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                  <p
+                    class="MuiFormHelperText-root-id MuiFormHelperText-contained-id MuiFormHelperText-error-id"
+                  >
+                    Duplicated SKU.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Views / Products / Create multiple variants choose attributes 1`] = `
 <div
   style="padding:24px"
@@ -82644,58 +83841,6 @@ exports[`Storyshots Views / Products / Create multiple variants prices and SKU 1
           <div
             class="FormSpacer-spacer-id"
           />
-          <div
-            class="Grid-root-id Grid-inverted-id"
-          >
-            <div
-              class="Hook-label-id"
-            >
-              <p
-                class="MuiTypography-root-id MuiTypography-body2-id"
-              >
-                Robusta
-              </p>
-            </div>
-            <div>
-              <div
-                class="MuiFormControl-root-id MuiFormControl-fullWidth-id"
-              >
-                <label
-                  class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-outlined-id"
-                  data-shrink="true"
-                >
-                  Price
-                </label>
-                <div
-                  class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                >
-                  <fieldset
-                    aria-hidden="true"
-                    class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                    style="padding-left:8px"
-                  >
-                    <legend
-                      class="MuiPrivateNotchedOutline-legend-id"
-                      style="width:0"
-                    >
-                      <span>
-                        ​
-                      </span>
-                    </legend>
-                  </fieldset>
-                  <input
-                    aria-invalid="false"
-                    class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                    type="text"
-                    value="5.00"
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            class="FormSpacer-spacer-id"
-          />
           <h5
             class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
           >
@@ -82943,58 +84088,6 @@ exports[`Storyshots Views / Products / Create multiple variants prices and SKU 1
               </div>
             </div>
           </div>
-          <div
-            class="FormSpacer-spacer-id"
-          />
-          <div
-            class="Grid-root-id Grid-inverted-id"
-          >
-            <div
-              class="Hook-label-id"
-            >
-              <p
-                class="MuiTypography-root-id MuiTypography-body2-id"
-              >
-                Robusta
-              </p>
-            </div>
-            <div>
-              <div
-                class="MuiFormControl-root-id MuiFormControl-fullWidth-id"
-              >
-                <label
-                  class="MuiFormLabel-root-id MuiFormLabel-filled-id MuiInputLabel-root-id MuiInputLabel-formControl-id MuiInputLabel-animated-id MuiInputLabel-shrink-id MuiInputLabel-outlined-id"
-                  data-shrink="true"
-                >
-                  Stock
-                </label>
-                <div
-                  class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                >
-                  <fieldset
-                    aria-hidden="true"
-                    class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                    style="padding-left:8px"
-                  >
-                    <legend
-                      class="MuiPrivateNotchedOutline-legend-id"
-                      style="width:0"
-                    >
-                      <span>
-                        ​
-                      </span>
-                    </legend>
-                  </fieldset>
-                  <input
-                    aria-invalid="false"
-                    class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                    type="text"
-                    value="29"
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
@@ -83078,7 +84171,7 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               >
                 <input
                   class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE1"
+                  name="value:100g"
                   type="checkbox"
                   value="true"
                 />
@@ -83099,7 +84192,7 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               >
                 <input
                   class="Checkbox-box-id"
-                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE2"
+                  name="value:250g"
                   type="checkbox"
                   value="false"
                 />
@@ -83120,7 +84213,7 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               >
                 <input
                   class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE3"
+                  name="value:500g"
                   type="checkbox"
                   value="true"
                 />
@@ -83141,7 +84234,7 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               >
                 <input
                   class="Checkbox-box-id"
-                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE4"
+                  name="value:1kg"
                   type="checkbox"
                   value="false"
                 />
@@ -83174,7 +84267,7 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               >
                 <input
                   class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjEz"
+                  name="value:arabica"
                   type="checkbox"
                   value="true"
                 />
@@ -83195,7 +84288,7 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               >
                 <input
                   class="Checkbox-box-id"
-                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjE0"
+                  name="value:robusta"
                   type="checkbox"
                   value="false"
                 />
@@ -83228,7 +84321,7 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               >
                 <input
                   class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjM="
+                  name="value:round"
                   type="checkbox"
                   value="true"
                 />
@@ -83249,7 +84342,7 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               >
                 <input
                   class="Checkbox-box-id"
-                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjQ="
+                  name="value:v-neck"
                   type="checkbox"
                   value="false"
                 />
@@ -83270,7 +84363,7 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               >
                 <input
                   class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:UHJvZHVjdEF0dHJpYnV0ZVZhbHVlOjU="
+                  name="value:polo"
                   type="checkbox"
                   value="true"
                 />
@@ -83282,616 +84375,6 @@ exports[`Storyshots Views / Products / Create multiple variants select values 1`
               </span>
             </label>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-`;
-
-exports[`Storyshots Views / Products / Create multiple variants summary 1`] = `
-<div
-  style="padding:24px"
->
-  <div
-    class="MuiPaper-root-id MuiPaper-elevation1-id MuiPaper-rounded-id MuiCard-root-id"
-    style="margin:auto;overflow:visible;width:800px"
-  >
-    <div
-      class="MuiCardContent-root-id"
-    >
-      <div>
-        <div
-          class="ProductVariantCreateTabs-root-id"
-        >
-          <div
-            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
-          >
-            <span
-              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
-            >
-              Choose Attributes
-            </span>
-          </div>
-          <div
-            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
-          >
-            <span
-              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
-            >
-              Select Values
-            </span>
-          </div>
-          <div
-            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabUnderline-id"
-          >
-            <span
-              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
-            >
-              Prices and SKU
-            </span>
-          </div>
-          <div
-            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabActive-id ProductVariantCreateTabs-tabUnderline-id"
-          >
-            <span
-              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
-            >
-              Summary
-            </span>
-          </div>
-        </div>
-        <div
-          class="Hook-root-id"
-        >
-          <h5
-            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
-          >
-            You will create variants below
-          </h5>
-          <hr
-            class="Hr-root-id Hook-hr-id"
-          />
-          <table
-            class="MuiTable-root-id"
-          >
-            <thead
-              class="MuiTableHead-root-id"
-            >
-              <tr
-                class="MuiTableRow-root-id MuiTableRow-head-id"
-              >
-                <th
-                  class="MuiTableCell-root-id MuiTableCell-head-id Hook-col-id Hook-colName-id"
-                  scope="col"
-                >
-                  Variant
-                </th>
-                <th
-                  class="MuiTableCell-root-id MuiTableCell-head-id Hook-col-id Hook-colStock-id"
-                  scope="col"
-                >
-                  Inventory
-                </th>
-                <th
-                  class="MuiTableCell-root-id MuiTableCell-head-id Hook-col-id Hook-colPrice-id"
-                  scope="col"
-                >
-                  Price
-                </th>
-                <th
-                  class="MuiTableCell-root-id MuiTableCell-head-id Hook-col-id Hook-colSku-id"
-                  scope="col"
-                >
-                  SKU
-                </th>
-              </tr>
-            </thead>
-            <tbody
-              class="MuiTableBody-root-id"
-            >
-              <tr
-                class="MuiTableRow-root-id"
-              >
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colName-id"
-                >
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#1565c0"
-                  >
-                    100g
-                  </span>
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#00838f"
-                  >
-                    Arabica
-                  </span>
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#2e7d32"
-                  >
-                    Round
-                  </span>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colStock-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                        min="0"
-                        type="number"
-                        value="30"
-                      />
-                    </div>
-                  </div>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colPrice-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
-                        min="0"
-                        type="number"
-                        value="4.00"
-                      />
-                      USD
-                    </div>
-                  </div>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colSku-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0.01px"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                        type="text"
-                        value=""
-                      />
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr
-                class="MuiTableRow-root-id"
-              >
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colName-id"
-                >
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#1565c0"
-                  >
-                    100g
-                  </span>
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#00838f"
-                  >
-                    Arabica
-                  </span>
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#2e7d32"
-                  >
-                    Polo
-                  </span>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colStock-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                        min="0"
-                        type="number"
-                        value="30"
-                      />
-                    </div>
-                  </div>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colPrice-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
-                        min="0"
-                        type="number"
-                        value="4.00"
-                      />
-                      USD
-                    </div>
-                  </div>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colSku-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0.01px"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                        type="text"
-                        value=""
-                      />
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr
-                class="MuiTableRow-root-id"
-              >
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colName-id"
-                >
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#1565c0"
-                  >
-                    500g
-                  </span>
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#00838f"
-                  >
-                    Arabica
-                  </span>
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#2e7d32"
-                  >
-                    Round
-                  </span>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colStock-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                        min="0"
-                        type="number"
-                        value="30"
-                      />
-                    </div>
-                  </div>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colPrice-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
-                        min="0"
-                        type="number"
-                        value="4.00"
-                      />
-                      USD
-                    </div>
-                  </div>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colSku-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0.01px"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                        type="text"
-                        value=""
-                      />
-                    </div>
-                  </div>
-                </td>
-              </tr>
-              <tr
-                class="MuiTableRow-root-id"
-              >
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colName-id"
-                >
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#1565c0"
-                  >
-                    500g
-                  </span>
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#00838f"
-                  >
-                    Arabica
-                  </span>
-                  <span
-                    class="Hook-attributeValue-id"
-                    style="color:#2e7d32"
-                  >
-                    Polo
-                  </span>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colStock-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                        min="0"
-                        type="number"
-                        value="30"
-                      />
-                    </div>
-                  </div>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colPrice-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id MuiInputBase-adornedEnd-id MuiOutlinedInput-adornedEnd-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id MuiInputBase-inputAdornedEnd-id MuiOutlinedInput-inputAdornedEnd-id"
-                        min="0"
-                        type="number"
-                        value="4.00"
-                      />
-                      USD
-                    </div>
-                  </div>
-                </td>
-                <td
-                  class="MuiTableCell-root-id MuiTableCell-body-id Hook-col-id Hook-colSku-id"
-                >
-                  <div
-                    class="MuiFormControl-root-id MuiFormControl-fullWidth-id Hook-input-id"
-                  >
-                    <div
-                      class="MuiInputBase-root-id MuiOutlinedInput-root-id MuiInputBase-fullWidth-id MuiInputBase-formControl-id"
-                    >
-                      <fieldset
-                        aria-hidden="true"
-                        class="MuiPrivateNotchedOutline-root-id MuiOutlinedInput-notchedOutline-id"
-                        style="padding-left:8px"
-                      >
-                        <legend
-                          class="MuiPrivateNotchedOutline-legend-id"
-                          style="width:0.01px"
-                        >
-                          <span>
-                            ​
-                          </span>
-                        </legend>
-                      </fieldset>
-                      <input
-                        aria-invalid="false"
-                        class="MuiInputBase-input-id MuiOutlinedInput-input-id"
-                        type="text"
-                        value=""
-                      />
-                    </div>
-                  </div>
-                </td>
-              </tr>
-            </tbody>
-          </table>
         </div>
       </div>
     </div>

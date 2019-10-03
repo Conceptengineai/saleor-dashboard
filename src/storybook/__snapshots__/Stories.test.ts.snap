@@ -83386,7 +83386,7 @@ exports[`Storyshots Views / Products / Create multiple variants / summary errors
 </div>
 `;
 
-exports[`Storyshots Views / Products / Create multiple variants choose attributes 1`] = `
+exports[`Storyshots Views / Products / Create multiple variants choose values 1`] = `
 <div
   style="padding:24px"
 >
@@ -83402,7 +83402,7 @@ exports[`Storyshots Views / Products / Create multiple variants choose attribute
           class="ProductVariantCreateTabs-root-id"
         >
           <div
-            class="ProductVariantCreateTabs-tab-id"
+            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabActive-id ProductVariantCreateTabs-tabUnderline-id"
           >
             <span
               class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
@@ -83431,7 +83431,233 @@ exports[`Storyshots Views / Products / Create multiple variants choose attribute
         </div>
         <div
           class="Hook-root-id"
-        />
+        >
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            Box Size
+          </h5>
+          <hr
+            class="Hr-root-id Hook-hr-id"
+          />
+          <div
+            class="Hook-valueContainer-id"
+          >
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:100g"
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                100g
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id"
+                  name="value:250g"
+                  type="checkbox"
+                  value="false"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                250g
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:500g"
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                500g
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id"
+                  name="value:1kg"
+                  type="checkbox"
+                  value="false"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                1kg
+              </span>
+            </label>
+          </div>
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            Coffee Genre
+          </h5>
+          <hr
+            class="Hr-root-id Hook-hr-id"
+          />
+          <div
+            class="Hook-valueContainer-id"
+          >
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:arabica"
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Arabica
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id"
+                  name="value:robusta"
+                  type="checkbox"
+                  value="false"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Robusta
+              </span>
+            </label>
+          </div>
+          <h5
+            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
+          >
+            Collar
+          </h5>
+          <hr
+            class="Hr-root-id Hook-hr-id"
+          />
+          <div
+            class="Hook-valueContainer-id"
+          >
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:round"
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Round
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id"
+                  name="value:v-neck"
+                  type="checkbox"
+                  value="false"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                V-Neck
+              </span>
+            </label>
+            <label
+              class="MuiFormControlLabel-root-id"
+            >
+              <button
+                class="MuiButtonBase-root-id Checkbox-root-id"
+                tabindex="0"
+                type="button"
+              >
+                <input
+                  class="Checkbox-box-id Checkbox-checked-id"
+                  name="value:polo"
+                  type="checkbox"
+                  value="true"
+                />
+              </button>
+              <span
+                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
+              >
+                Polo
+              </span>
+            </label>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -83986,284 +84212,6 @@ exports[`Storyshots Views / Products / Create multiple variants prices and SKU 1
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-`;
-
-exports[`Storyshots Views / Products / Create multiple variants select values 1`] = `
-<div
-  style="padding:24px"
->
-  <div
-    class="MuiPaper-root-id MuiPaper-elevation1-id MuiPaper-rounded-id MuiCard-root-id"
-    style="margin:auto;overflow:visible;width:800px"
-  >
-    <div
-      class="MuiCardContent-root-id"
-    >
-      <div>
-        <div
-          class="ProductVariantCreateTabs-root-id"
-        >
-          <div
-            class="ProductVariantCreateTabs-tab-id ProductVariantCreateTabs-tabActive-id ProductVariantCreateTabs-tabUnderline-id"
-          >
-            <span
-              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
-            >
-              Select Values
-            </span>
-          </div>
-          <div
-            class="ProductVariantCreateTabs-tab-id"
-          >
-            <span
-              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
-            >
-              Prices and SKU
-            </span>
-          </div>
-          <div
-            class="ProductVariantCreateTabs-tab-id"
-          >
-            <span
-              class="MuiTypography-root-id MuiTypography-caption-id ProductVariantCreateTabs-label-id"
-            >
-              Summary
-            </span>
-          </div>
-        </div>
-        <div
-          class="Hook-root-id"
-        >
-          <h5
-            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
-          >
-            Box Size
-          </h5>
-          <hr
-            class="Hr-root-id Hook-hr-id"
-          />
-          <div
-            class="Hook-valueContainer-id"
-          >
-            <label
-              class="MuiFormControlLabel-root-id"
-            >
-              <button
-                class="MuiButtonBase-root-id Checkbox-root-id"
-                tabindex="0"
-                type="button"
-              >
-                <input
-                  class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:100g"
-                  type="checkbox"
-                  value="true"
-                />
-              </button>
-              <span
-                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
-              >
-                100g
-              </span>
-            </label>
-            <label
-              class="MuiFormControlLabel-root-id"
-            >
-              <button
-                class="MuiButtonBase-root-id Checkbox-root-id"
-                tabindex="0"
-                type="button"
-              >
-                <input
-                  class="Checkbox-box-id"
-                  name="value:250g"
-                  type="checkbox"
-                  value="false"
-                />
-              </button>
-              <span
-                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
-              >
-                250g
-              </span>
-            </label>
-            <label
-              class="MuiFormControlLabel-root-id"
-            >
-              <button
-                class="MuiButtonBase-root-id Checkbox-root-id"
-                tabindex="0"
-                type="button"
-              >
-                <input
-                  class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:500g"
-                  type="checkbox"
-                  value="true"
-                />
-              </button>
-              <span
-                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
-              >
-                500g
-              </span>
-            </label>
-            <label
-              class="MuiFormControlLabel-root-id"
-            >
-              <button
-                class="MuiButtonBase-root-id Checkbox-root-id"
-                tabindex="0"
-                type="button"
-              >
-                <input
-                  class="Checkbox-box-id"
-                  name="value:1kg"
-                  type="checkbox"
-                  value="false"
-                />
-              </button>
-              <span
-                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
-              >
-                1kg
-              </span>
-            </label>
-          </div>
-          <h5
-            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
-          >
-            Coffee Genre
-          </h5>
-          <hr
-            class="Hr-root-id Hook-hr-id"
-          />
-          <div
-            class="Hook-valueContainer-id"
-          >
-            <label
-              class="MuiFormControlLabel-root-id"
-            >
-              <button
-                class="MuiButtonBase-root-id Checkbox-root-id"
-                tabindex="0"
-                type="button"
-              >
-                <input
-                  class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:arabica"
-                  type="checkbox"
-                  value="true"
-                />
-              </button>
-              <span
-                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
-              >
-                Arabica
-              </span>
-            </label>
-            <label
-              class="MuiFormControlLabel-root-id"
-            >
-              <button
-                class="MuiButtonBase-root-id Checkbox-root-id"
-                tabindex="0"
-                type="button"
-              >
-                <input
-                  class="Checkbox-box-id"
-                  name="value:robusta"
-                  type="checkbox"
-                  value="false"
-                />
-              </button>
-              <span
-                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
-              >
-                Robusta
-              </span>
-            </label>
-          </div>
-          <h5
-            class="MuiTypography-root-id MuiTypography-h5-id MuiTypography-colorTextSecondary-id"
-          >
-            Collar
-          </h5>
-          <hr
-            class="Hr-root-id Hook-hr-id"
-          />
-          <div
-            class="Hook-valueContainer-id"
-          >
-            <label
-              class="MuiFormControlLabel-root-id"
-            >
-              <button
-                class="MuiButtonBase-root-id Checkbox-root-id"
-                tabindex="0"
-                type="button"
-              >
-                <input
-                  class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:round"
-                  type="checkbox"
-                  value="true"
-                />
-              </button>
-              <span
-                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
-              >
-                Round
-              </span>
-            </label>
-            <label
-              class="MuiFormControlLabel-root-id"
-            >
-              <button
-                class="MuiButtonBase-root-id Checkbox-root-id"
-                tabindex="0"
-                type="button"
-              >
-                <input
-                  class="Checkbox-box-id"
-                  name="value:v-neck"
-                  type="checkbox"
-                  value="false"
-                />
-              </button>
-              <span
-                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
-              >
-                V-Neck
-              </span>
-            </label>
-            <label
-              class="MuiFormControlLabel-root-id"
-            >
-              <button
-                class="MuiButtonBase-root-id Checkbox-root-id"
-                tabindex="0"
-                type="button"
-              >
-                <input
-                  class="Checkbox-box-id Checkbox-checked-id"
-                  name="value:polo"
-                  type="checkbox"
-                  value="true"
-                />
-              </button>
-              <span
-                class="MuiTypography-root-id MuiTypography-body2-id MuiFormControlLabel-label-id"
-              >
-                Polo
-              </span>
-            </label>
           </div>
         </div>
       </div>
